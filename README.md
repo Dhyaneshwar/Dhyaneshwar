@@ -1,3 +1,11 @@
+<h1 align="center">
+Hi, I'm Dhyaneshwar Nagarajan!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20Learning%20New%20Things&center=true&width=380&height=45"></a>
+</p>
+
 # 💫 About Me:
 Greetings! I'm a seasoned full-stack developer and machine learning engineer, bringing over three years of expertise to the tech realm. I thrive in agile environments, seamlessly weaving together JavaScript, React, Node, and Python to create code that is not just functional but also scalable and understandable.<br><br> My knack for problem-solving extends beyond code, encompassing a profound understanding of data structures and algorithms. This analytical prowess positions me as a resourceful troubleshooter, contributing to critical design discussions and reducing software development life cycle (SDLC) timelines in the workspace by 15%.<br><br>Beyond coding, I've delved into the exciting field of Artificial Intelligence. As an established data analyst, I've applied machine learning, natural language processing, and computer vision to optimize processes and extract actionable insights from vast datasets. This journey has not only honed my technical skills but has also fostered a commitment to continuous learning.<br><br>In addition to my professional endeavours, I've acquired a diverse skill set, from web development tools like React and MongoDB to automation frameworks like Cypress and Jenkins. Join me on this coding adventure, and let's collaborate on cutting-edge projects that push the boundaries of innovation!
 
